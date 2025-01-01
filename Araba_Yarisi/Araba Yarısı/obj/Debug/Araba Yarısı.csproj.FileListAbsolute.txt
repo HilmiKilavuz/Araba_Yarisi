@@ -1,0 +1,20 @@
+C:\Users\kilav\OneDrive\Masaüstü\Kodlama\C#\Araba Yarısı\Araba Yarısı\bin\Debug\Araba Yarısı.exe.config
+C:\Users\kilav\OneDrive\Masaüstü\Kodlama\C#\Araba Yarısı\Araba Yarısı\bin\Debug\Araba Yarısı.exe
+C:\Users\kilav\OneDrive\Masaüstü\Kodlama\C#\Araba Yarısı\Araba Yarısı\bin\Debug\Araba Yarısı.pdb
+C:\Users\kilav\OneDrive\Masaüstü\Kodlama\C#\Araba Yarısı\Araba Yarısı\obj\Debug\Araba Yarısı.csprojAssemblyReference.cache
+C:\Users\kilav\OneDrive\Masaüstü\Kodlama\C#\Araba Yarısı\Araba Yarısı\obj\Debug\Araba_Yarısı.Properties.Resources.resources
+C:\Users\kilav\OneDrive\Masaüstü\Kodlama\C#\Araba Yarısı\Araba Yarısı\obj\Debug\Araba Yarısı.csproj.GenerateResource.cache
+C:\Users\kilav\OneDrive\Masaüstü\Kodlama\C#\Araba Yarısı\Araba Yarısı\obj\Debug\Araba Yarısı.csproj.CoreCompileInputs.cache
+C:\Users\kilav\OneDrive\Masaüstü\Kodlama\C#\Araba Yarısı\Araba Yarısı\obj\Debug\Araba Yarısı.exe
+C:\Users\kilav\OneDrive\Masaüstü\Kodlama\C#\Araba Yarısı\Araba Yarısı\obj\Debug\Araba Yarısı.pdb
+C:\Users\kilav\OneDrive\Masaüstü\Kodlama\C#\Araba Yarısı\Araba Yarısı\obj\Debug\Araba_Yarısı.Form1.resources
+C:\Users\kilav\Downloads\Araba Yarısı\Araba Yarısı\Araba Yarısı\bin\Debug\Araba Yarısı.exe.config
+C:\Users\kilav\Downloads\Araba Yarısı\Araba Yarısı\Araba Yarısı\bin\Debug\Araba Yarısı.exe
+C:\Users\kilav\Downloads\Araba Yarısı\Araba Yarısı\Araba Yarısı\bin\Debug\Araba Yarısı.pdb
+C:\Users\kilav\Downloads\Araba Yarısı\Araba Yarısı\Araba Yarısı\obj\Debug\Araba Yarısı.csprojAssemblyReference.cache
+C:\Users\kilav\Downloads\Araba Yarısı\Araba Yarısı\Araba Yarısı\obj\Debug\Araba_Yarısı.Form1.resources
+C:\Users\kilav\Downloads\Araba Yarısı\Araba Yarısı\Araba Yarısı\obj\Debug\Araba_Yarısı.Properties.Resources.resources
+C:\Users\kilav\Downloads\Araba Yarısı\Araba Yarısı\Araba Yarısı\obj\Debug\Araba Yarısı.csproj.GenerateResource.cache
+C:\Users\kilav\Downloads\Araba Yarısı\Araba Yarısı\Araba Yarısı\obj\Debug\Araba Yarısı.csproj.CoreCompileInputs.cache
+C:\Users\kilav\Downloads\Araba Yarısı\Araba Yarısı\Araba Yarısı\obj\Debug\Araba Yarısı.exe
+C:\Users\kilav\Downloads\Araba Yarısı\Araba Yarısı\Araba Yarısı\obj\Debug\Araba Yarısı.pdb
